@@ -4,4 +4,4 @@ spring:
       uri: http://127.0.0.1:8888
       name: ecommerce
   profiles:
-    active: dev, h2db-dev, order-service-dev
+    active: dev, mariadb-dev, order-service-dev
